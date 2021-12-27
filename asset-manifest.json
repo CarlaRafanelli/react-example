@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/CarlaRafanelli.githab.io/react-example/static/css/main.073c9b0a.css",
-    "main.js": "/CarlaRafanelli.githab.io/react-example/static/js/main.62130000.js",
-    "static/js/787.f425ef8b.chunk.js": "/CarlaRafanelli.githab.io/react-example/static/js/787.f425ef8b.chunk.js",
-    "static/media/logo.svg": "/CarlaRafanelli.githab.io/react-example/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/CarlaRafanelli.githab.io/react-example/index.html",
-    "main.073c9b0a.css.map": "/CarlaRafanelli.githab.io/react-example/static/css/main.073c9b0a.css.map",
-    "main.62130000.js.map": "/CarlaRafanelli.githab.io/react-example/static/js/main.62130000.js.map",
-    "787.f425ef8b.chunk.js.map": "/CarlaRafanelli.githab.io/react-example/static/js/787.f425ef8b.chunk.js.map"
+    "main.css": "/carlarafanelli.githab.io/react-example/static/css/main.073c9b0a.css",
+    "main.js": "/carlarafanelli.githab.io/react-example/static/js/main.c3a13e9b.js",
+    "static/js/787.f425ef8b.chunk.js": "/carlarafanelli.githab.io/react-example/static/js/787.f425ef8b.chunk.js",
+    "static/media/logo.svg": "/carlarafanelli.githab.io/react-example/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/carlarafanelli.githab.io/react-example/index.html",
+    "main.073c9b0a.css.map": "/carlarafanelli.githab.io/react-example/static/css/main.073c9b0a.css.map",
+    "main.c3a13e9b.js.map": "/carlarafanelli.githab.io/react-example/static/js/main.c3a13e9b.js.map",
+    "787.f425ef8b.chunk.js.map": "/carlarafanelli.githab.io/react-example/static/js/787.f425ef8b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.62130000.js"
+    "static/js/main.c3a13e9b.js"
   ]
 }
